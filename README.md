@@ -32,6 +32,6 @@ wskaże że chce przejść dalej.
 https://stackoverflow.com/
 - Instalacja biblioteki libcurl w środowisku programistycznym CodeBlocks -
 https://www.youtube.com/watch?v=u4L1_mXuJxQ
-• Algorytm na którym bazowałem podaczas implementacji funkcji usuwania tagów html z
+- Algorytm na którym bazowałem podaczas implementacji funkcji usuwania tagów html z
 pobranego kodu źródłowego strony - http://c.happycodings.com/smallprograms/
 code28.html
